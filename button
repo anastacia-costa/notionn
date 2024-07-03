@@ -244,11 +244,11 @@
 
 <body>
 
-  <button class="btn large my-color rounded threeD" type="button" onclick="navigate()"> <i class="fa-regular fa-star"></i> My Button</button>
+  <button class="btn large mint rounded threeD" type="button" onclick="navigate()"> Noisli</button>
   
   <script>
     function navigate() {
-      window.open("https://example.com", '_blank').focus();
+      window.open("https://www.noisli.com/s/bcab239da1", '_blank').focus();
     }
   </script>
 
